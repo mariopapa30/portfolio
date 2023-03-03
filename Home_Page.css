@@ -1,0 +1,514 @@
+.mediaViewInfo {
+	--web-view-name: Home Page;
+	--web-view-id: Home_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home_Page {
+	position: absolute;
+	width: 1920px;
+	height: 2434px;
+	background-color: rgba(24,24,35,1);
+	overflow: hidden;
+	--web-view-name: Home Page;
+	--web-view-id: Home_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_6 {
+	fill: rgba(83,127,231,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 63px;
+	left: -7px;
+	top: 2243px;
+}
+#Rectangle_5 {
+	fill: rgba(83,127,231,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 74px;
+	left: 0px;
+	top: 930px;
+}
+#Rectangle_1 {
+	opacity: 0.59;
+	fill: rgba(192,238,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 250px;
+	left: 0px;
+	top: 303px;
+}
+#Hi_Im_Mario {
+	left: 605px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(240,233,210,1);
+}
+#Allow_me_to_analyze_the_data__ {
+	left: 605px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 1045px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(240,233,210,1);
+}
+#Hi_Im_Mario_n {
+	left: 605px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(240,233,210,1);
+}
+#Im_a_DATA_ANALYST_who_enjoys_a {
+	left: 605px;
+	top: 490px;
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(240,233,210,1);
+}
+#Allow_me_to_analyze_the_data___p {
+	left: 605px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 1045px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#What_I_do {
+	left: 874px;
+	top: 943px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Home {
+	position: absolute;
+	width: 97px;
+	height: 47px;
+	left: 843px;
+	top: 42px;
+	overflow: visible;
+}
+#Home_Button_t {
+	fill: url(#Home_Button_t);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Home_Button_t {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 118px;
+	height: 52px;
+	left: -11px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Home_u {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Work_v {
+	position: absolute;
+	width: 87px;
+	height: 47px;
+	left: 990px;
+	top: 42px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Work.html;
+	cursor: pointer;
+}
+#Work_Button_x {
+	fill: url(#Work_Button_x);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Work_Button_x {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 52px;
+	left: -16px;
+	top: -3px;
+}
+#Work_y {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Project_z {
+	position: absolute;
+	width: 114px;
+	height: 47px;
+	left: 1058px;
+	top: 56px;
+	display: none;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project.html;
+	cursor: pointer;
+}
+#Project_Button_ {
+	fill: url(#Project_Button_);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Project_Button_ {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 52px;
+	left: -9px;
+	top: -3px;
+}
+#Project_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Excel {
+	left: 334px;
+	top: 1075px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#SQL {
+	left: 933px;
+	top: 1075px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Power_BI {
+	left: 1490px;
+	top: 1075px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(233,248,249,1);
+}
+#Dashboard_creation_using_Excel {
+	left: 101px;
+	top: 1626px;
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(233,248,249,1);
+}
+#Database_manipulation_using_SQ {
+	left: 700px;
+	top: 1913px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(233,248,249,1);
+}
+#Dynamic_Dashboard_in_Power_BI {
+	left: 1299px;
+	top: 2133px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(233,248,249,1);
+}
+#Mario_Work_Profile_Pic {
+	position: absolute;
+	width: 394px;
+	height: 525px;
+	left: 101px;
+	top: 173px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 549px;
+	height: 323px;
+	left: 1299px;
+	top: 1140px;
+	overflow: visible;
+}
+#Image_2 {
+	position: absolute;
+	width: 549px;
+	height: 309px;
+	left: 1299px;
+	top: 1481px;
+	overflow: visible;
+}
+#Image_3 {
+	position: absolute;
+	width: 549px;
+	height: 307px;
+	left: 1299px;
+	top: 1808px;
+	overflow: visible;
+}
+#Image_4 {
+	position: absolute;
+	width: 549px;
+	height: 468px;
+	left: 101px;
+	top: 1140px;
+	overflow: visible;
+}
+#Image_6 {
+	position: absolute;
+	width: 550px;
+	height: 349px;
+	left: 700px;
+	top: 1141px;
+	overflow: visible;
+}
+#Image_7 {
+	position: absolute;
+	width: 550px;
+	height: 385px;
+	left: 700px;
+	top: 1509px;
+	overflow: visible;
+}
+#Contact_Information {
+	left: 793px;
+	top: 2251px;
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(240,233,210,1);
+}
+#Mobile_No_63_915-315-4285 {
+	left: 597px;
+	top: 2318px;
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(240,233,210,1);
+}
+#Data_Analyst_Project {
+	left: 901px;
+	top: 2351px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(97,116,243,1);
+	text-decoration: underline;
+}
+#LinkedIn {
+	left: 797px;
+	top: 2351px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(92,112,242,1);
+	text-decoration: underline;
+}
+#Email_mariopapa30gmailcom {
+	left: 950px;
+	top: 2318px;
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
