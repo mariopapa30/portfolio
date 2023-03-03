@@ -1,11 +1,10 @@
 .mediaViewInfo {
-	--web-view-name: Home Page;
-	--web-view-id: Home_Page;
-	--web-scale-on-resize: true;
+	--web-view-name: index;
+	--web-view-id: index;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Home_Page;
+	--web-view-ids: index;
 }
 * {
 	margin: 0;
@@ -13,15 +12,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Home_Page {
+#index {
 	position: absolute;
 	width: 1920px;
 	height: 2434px;
 	background-color: rgba(24,24,35,1);
 	overflow: hidden;
-	--web-view-name: Home Page;
-	--web-view-id: Home_Page;
-	--web-scale-on-resize: true;
+	--web-view-name: index;
+	--web-view-id: index;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
